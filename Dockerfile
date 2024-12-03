@@ -11,5 +11,5 @@ COPY . .
 # RUN pip install --no-cache-dir -r requirements.txt
 
 # Run the Python program
-CMD ["python", "your_program.py"]
+CMD ["python", "prime.py"]
 
